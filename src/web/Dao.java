@@ -9,7 +9,7 @@ public class Dao {
 		
 	}
 	public Connection Driver() {
-		String url="jdbc:mysql://localhost:3306/blog";
+		String url="jdbc:mysql://localhost:3306/blog";//dd
 		String user="root";
 		String password="qwenovvz0";
 		Connection conn;
